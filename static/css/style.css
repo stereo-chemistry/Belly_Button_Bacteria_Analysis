@@ -1,0 +1,15 @@
+/* Deliverable 4 */
+/* First Customization */
+.jumbotron {
+    background-image: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.9)), url('https://placeimg.com/1000/480/nature');
+    background-size: 100% 100%;
+    text-align: center;
+}
+/* Second Customization */
+body {
+    background: linear-gradient(to bottom right, rgba(223, 172, 200, 0.9), rgba(248, 248, 248, 0.9));
+}
+/* Third Customization */
+h1 {
+    font-family: 'Brush Script MT';
+}
